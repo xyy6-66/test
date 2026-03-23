@@ -18,7 +18,7 @@
 \运行环境
 Python 3.x
 pandas
-\运行方式
+\运行方式 
 python srcmain.py
 # test
 测试
